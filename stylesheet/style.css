@@ -1,0 +1,20 @@
+:root {
+    --ff-accent: 'Playfair Display', serif;
+    --ff-base: 'PT Sans Narrow', sans-serif;
+
+    --clr-neutral-100: #000000;
+    --clr-neutral-200: #FFFFFF;
+  
+    --clr-accent-100: #0699A6;
+    --clr-accent-200: #9E8C6C;
+
+    --clr-background-100: #979797;
+
+    --fs-300: 0.75rem;
+    --fs-400: 1rem;
+    --fs-500: 2rem;
+  
+    --fw-400: 400;
+    --fw-700: 700;
+    --fw-900: 900;
+}
